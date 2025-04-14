@@ -1,36 +1,87 @@
 # Backend Jobs
 
-This data is updated weekly, with filled postings removed. Last updated: 04/09/2025
+This data is updated weekly, with filled postings removed. Last updated: 04/14/2025
 
 All jobs are sourced from [algojobs.io](https://algojobs.io/). For more recent postings, see: [Backend Jobs](https://algojobs.io/jobs/backend)
 
 | Posted | Title | Company | Salary | Location |
 | --- | --- | --- | --- | --- |
+| 04/14/2025 | [Software Engineer- Backend \| Mumbai (Remote)](https://algojobs.io/jobs/3778666) | [BrowserStack](https://algojobs.io/company/browserstack/) | N/A | Mumbai Remote, India |
+| 04/14/2025 | [Senior Backend Software Engineer / SMTS - Messaging](https://algojobs.io/jobs/3778544) | [Salesforce](https://algojobs.io/company/salesforce/) | N/A | India - Hyderabad / India - Bangalore |
+| 04/13/2025 | [Senior Backend Engineer](https://algojobs.io/jobs/3777981) | [M-KOPA](https://algojobs.io/company/m-kopa/) | N/A | Johannesburg |
+| 04/12/2025 | [Software Development Engineer-III (Backend)](https://algojobs.io/jobs/3777749) | [Innovaccer Inc.](https://algojobs.io/company/innovaccer/) | N/A | Noida, Uttar Pradesh, India |
+| 04/12/2025 | [Sr Software Engineer - Backend](https://algojobs.io/jobs/3777865) | [Databricks](https://algojobs.io/company/databricks/) | N/A | Bengaluru, India |
+| 04/12/2025 | [Software Engineer (Backend - SDE 2)](https://algojobs.io/jobs/3777863) | [Databricks](https://algojobs.io/company/databricks/) | N/A | Bengaluru, India |
+| 04/11/2025 | [Senior Staff Software Engineer (Backend) - Security Graph](https://algojobs.io/jobs/3771443) | [SentinelOne](https://algojobs.io/company/sentinellabs/) | N/A | Czech Republic |
+| 04/11/2025 | [Senior Backend Engineer (Chicago)](https://algojobs.io/jobs/3770900) | [Chime](https://algojobs.io/company/chime/) | $157K - $218K | Chicago, IL |
+| 04/11/2025 | [Backend Engineer](https://algojobs.io/jobs/3770858) | [Backbase](https://algojobs.io/company/workatbackbase/) | N/A | Guadalajara, Jalisco, Mexico |
+| 04/11/2025 | [Backend Engineer](https://algojobs.io/jobs/3770856) | [Backbase](https://algojobs.io/company/workatbackbase/) | N/A | Guadalajara, Jalisco, Mexico |
+| 04/11/2025 | [Sr. Software Engineer (Backend)](https://algojobs.io/jobs/3771768) | [Mantra Health](https://algojobs.io/company/mantrahealth/) | $150K - $170K | Remote |
+| 04/11/2025 | [Senior Software Engineer II, Backend, Reliability](https://algojobs.io/jobs/3772685) | [HubSpot](https://algojobs.io/company/hubspotjobs/) | N/A | USA (Remote) |
+| 04/11/2025 | [Backend Software Engineer, Golang/Python (ABS Processing)](https://algojobs.io/jobs/3770947) | [Exness jobs for internal candidates](https://algojobs.io/company/internalhiring/) | N/A | Cyprus |
+| 04/11/2025 | [Backend Python Software Engineer (PSP Integration team)](https://algojobs.io/jobs/3770944) | [Exness jobs for internal candidates](https://algojobs.io/company/internalhiring/) | N/A | Cyprus |
+| 04/11/2025 | [Senior Software Engineer - Backend](https://algojobs.io/jobs/3770662) | [Nas Company](https://algojobs.io/company/nascompany/) | N/A | Mexico |
+| 04/11/2025 | [Senior Backend Engineer - Geolocalized Services](https://algojobs.io/jobs/3771490) | [FeverUp](https://algojobs.io/company/feverup/) | N/A | Spain |
+| 04/11/2025 | [Software Development Engineer-III (Backend)](https://algojobs.io/jobs/3770829) | [Innovaccer Inc.](https://algojobs.io/company/innovaccer/) | N/A | Noida, Uttar Pradesh, India |
+| 04/11/2025 | [Staff+ Software Engineer, Backend and Infra](https://algojobs.io/jobs/3759078) | [Haize Labs](https://algojobs.io/company/haizelabs/) | $225K - $480K | New York, NY |
+| 04/11/2025 | [Software Engineer, Backend Python](https://algojobs.io/jobs/3778035) | [PayPal](https://algojobs.io/company/paypal/) | $72K - $176K | New York City, New York, United States of America / San Jose, California, United States of America |
+| 04/11/2025 | [Staff Software Engineer - Backend Microservices, Fortanix (Bay Area)](https://algojobs.io/jobs/3768909) | [Fortanix](https://algojobs.io/company/fortanix/) | $155K - $230K | Santa Clara, California, United States (Hybrid) |
+| 04/11/2025 | [Staff Cloud Software Engineer, Backend](https://algojobs.io/jobs/3769297) | [TP-Link Systems Inc.](https://algojobs.io/company/tp-link-usa-corp/) | $140K - $200K | Irvine, California, United States |
+| 04/11/2025 | [Senior, Software Engineer - Backend](https://algojobs.io/jobs/3779111) | [Walmart Inc.](https://algojobs.io/company/walmart/) | $108K - $216K | Bellevue, WA / Sunnyvale, CA |
+| 04/11/2025 | [Senior, Software Engineer - Backend](https://algojobs.io/jobs/3779113) | [Walmart Inc.](https://algojobs.io/company/walmart/) | $117K - $234K | (USA) SUNNYVALE IV- 680 W CALIFORNIA CA SUNNYVALE Home Office, United States of America |
+| 04/11/2025 | [Senior, Software Engineer - Backend](https://algojobs.io/jobs/3781006) | [Walmart](https://algojobs.io/company/walmart/) | $108K - $216K | Bellevue, WA / Sunnyvale, CA |
+| 04/11/2025 | [Senior, Software Engineer - Backend](https://algojobs.io/jobs/3781014) | [Walmart](https://algojobs.io/company/walmart/) | $117K - $234K | (USA) SUNNYVALE IV- 680 W CALIFORNIA CA SUNNYVALE Home Office, United States of America |
+| 04/11/2025 | [Principal Backend Engineer](https://algojobs.io/jobs/3780921) | [3M](https://algojobs.io/company/3m/) | $188K - $230K | US, Minnesota, Maplewood, United States of America |
+| 04/11/2025 | [Backend Engineer](https://algojobs.io/jobs/3773348) | [Stacks](https://algojobs.io/company/stacks/) | N/A | Amsterdam |
+| 04/11/2025 | [Backend Engineer - Learning Infrastructure](https://algojobs.io/jobs/3770083) | [Spotify](https://algojobs.io/company/spotify/) | N/A | Stockholm (Hybrid) |
+| 04/10/2025 | [Senior Backend Engineer - Core Services](https://algojobs.io/jobs/3758156) | [Verkada](https://algojobs.io/company/verkada/) | $130K - $260K | San Mateo, CA United States |
+| 04/10/2025 | [Senior Engineer I, Backend](https://algojobs.io/jobs/3757651) | [FIGS](https://algojobs.io/company/figs15/) | $105K - $135K | Santa Monica, CA |
+| 04/10/2025 | [Junior Backend Engineer - Apprenticeship (f/m/d)](https://algojobs.io/jobs/3756830) | [Decathlon Digital FR](https://algojobs.io/company/decathlontechnology/) | N/A | Nantes, Loire-Atlantique, France |
+| 04/10/2025 | [Backend Engineer](https://algojobs.io/jobs/3756557) | [Backbase](https://algojobs.io/company/workatbackbase/) | N/A | Amsterdam |
+| 04/10/2025 | [Senior Backend Engineer](https://algojobs.io/jobs/3756561) | [Backbase](https://algojobs.io/company/workatbackbase/) | N/A | Hyderabad |
+| 04/10/2025 | [Staff Software Engineer - Backend](https://algojobs.io/jobs/3756415) | [Redpin](https://algojobs.io/company/currenciesdirect/) | N/A | India- Hyderabad |
+| 04/10/2025 | [Senior Software Engineer ( Backend )](https://algojobs.io/jobs/3759221) | [Hunch](https://algojobs.io/company/hunchin/) | N/A | New Delhi |
+| 04/10/2025 | [Software Engineer III -Backend](https://algojobs.io/jobs/3757519) | [Suki](https://algojobs.io/company/suki/) | N/A | Bangalore, India |
+| 04/10/2025 | [Software Engineer, Backend - Taxation](https://algojobs.io/jobs/3743925) | [Coinbase Careers Page](https://algojobs.io/company/coinbase/) | N/A | Remote - India |
+| 04/10/2025 | [Senior Software Engineer, Backend - Taxation](https://algojobs.io/jobs/3743917) | [Coinbase Careers Page](https://algojobs.io/company/coinbase/) | N/A | Remote - India |
+| 04/10/2025 | [Software Engineer II, Backend - Ads](https://algojobs.io/jobs/3743432) | [MyFitnessPal](https://algojobs.io/company/myfitnesspal/) | $115K - $130K | US (Remote) |
+| 04/10/2025 | [Associate Software Engineer, Backend Java](https://algojobs.io/jobs/3759684) | [PayPal](https://algojobs.io/company/paypal/) | $60K - $147K | New York City, New York, United States of America / San Jose, California, United States of America / Chicago, Illinois, United States of America / ... |
+| 04/10/2025 | [Backend Software Engineer](https://algojobs.io/jobs/3763011) | [AstraZeneca](https://algojobs.io/company/astrazeneca/) | N/A | Spain - Barcelona |
+| 04/10/2025 | [Backend (Mid-Level) Software Engineer](https://algojobs.io/jobs/3759491) | [Granular Energy](https://algojobs.io/company/granular-energy.com/) | N/A | Europe |
+| 04/10/2025 | [Backend Associate Software Engineer](https://algojobs.io/jobs/3762955) | [CVS Health](https://algojobs.io/company/cvshealth/) | $61K - $135K | Woonsocket-1 CVS Drive / TX - Richardson / Princeton-3 Independence Way |
+| 04/10/2025 | [Senior Backend Software Engineer](https://algojobs.io/jobs/3763007) | [AstraZeneca](https://algojobs.io/company/astrazeneca/) | N/A | Spain - Barcelona |
+| 04/10/2025 | [Backend Engineering Team Lead (.NET Azure)](https://algojobs.io/jobs/3759571) | [M-KOPA](https://algojobs.io/company/m-kopa/) | N/A | Accra |
+| 04/10/2025 | [Backend Engineer](https://algojobs.io/jobs/3748058) | [ING Bank Personeel BV](https://algojobs.io/company/ing/) | N/A | Manila (One Ayala Tower 2), Philippines |
+| 04/09/2025 | [Backend Engineer (Go)](https://algojobs.io/jobs/3742677) | [GWI](https://algojobs.io/company/globalwebindex/) | N/A | Athens, GR |
+| 04/09/2025 | [Senior Staff Software Engineer, Backend (Load Testing)](https://algojobs.io/jobs/3744100) | [Affirm](https://algojobs.io/company/affirm/) | $260K - $310K | US (Remote) |
+| 04/09/2025 | [Senior Software Engineer, Backend](https://algojobs.io/jobs/3743261) | [Tatari](https://algojobs.io/company/tatari/) | N/A | San Francisco, California, United States |
+| 04/09/2025 | [Senior Software Engineer, Backend](https://algojobs.io/jobs/3743260) | [Tatari](https://algojobs.io/company/tatari/) | N/A | New York, New York, United States |
+| 04/09/2025 | [Senior Software Engineer, Backend](https://algojobs.io/jobs/3743264) | [Tatari](https://algojobs.io/company/tatari/) | N/A | Los Angeles, California, United States |
+| 04/09/2025 | [Senior Software Engineer, Backend](https://algojobs.io/jobs/3742484) | [Harness ](https://algojobs.io/company/harnessinc/) | $3 - $425 | Tandil, Buenos Aires Province, Argentina |
+| 04/09/2025 | [Senior Backend Engineer - Metadata Platform Technologies](https://algojobs.io/jobs/3744819) | [Celonis](https://algojobs.io/company/celonis/) | N/A | Munich, Germany |
+| 04/09/2025 | [IC4 - Sr Software Engineer Backend](https://algojobs.io/jobs/3742860) | [Spin Careers](https://algojobs.io/company/digitalfemsa/) | N/A | SILMC - SERVICIOS INTEGRADOS DE LEALTAD, MERCADOTECNIA Y COMUNICACIÓN, S.A.P.I. DE C.V. |
 | 04/09/2025 | [Software Engineer, Product (Backend)](https://algojobs.io/jobs/3718982) | [TRM Labs](https://algojobs.io/company/trmlabs/) | N/A | Argentina - Remote |
-| 04/09/2025 | [Associate Engineer - Backend (Java)](https://algojobs.io/jobs/3722364) | [PayPal](https://algojobs.io/company/paypal/) | N/A | Chennai, Tamil Nadu, India / Bangalore, Karnataka, India |
+| 04/09/2025 | [Software Engineer, Backend (7+ years of experience)](https://algojobs.io/jobs/3745474) | [Captions](https://algojobs.io/company/captions/) | N/A | Union Square, New York City |
+| 04/09/2025 | [Sr. Software Engineer, Backend](https://algojobs.io/jobs/3745714) | [Poshmark](https://algojobs.io/company/poshmark/) | $133K - $189K | Redwood City, California, USA, United States of America |
 | 04/08/2025 | [Backend Engineer - CeloAI](https://algojobs.io/jobs/3720297) | [Celonis](https://algojobs.io/company/celonis/) | N/A | Munich, Germany |
 | 04/08/2025 | [Senior Software Engineer, Backend Platform SRE](https://algojobs.io/jobs/3719322) | [Instacart](https://algojobs.io/company/instacart/) | $165K - $183K | Canada - Remote (ON, AB, BC, or NS Only) |
-| 04/08/2025 | [Staff Software Engineer Backend](https://algojobs.io/jobs/3721517) | [Creditas ](https://algojobs.io/company/creditas/) | $4 - $879 | São Paulo, São Paulo, Brazil |
 | 04/08/2025 | [Backend Software Engineer](https://algojobs.io/jobs/3717609) | [Lyft](https://algojobs.io/company/lyft/) | $108K - $148K | Toronto, Canada |
-| 04/08/2025 | [Backend Engineer - Lending](https://algojobs.io/jobs/3718897) | [N26](https://algojobs.io/company/n26/) | N/A | Berlin |
 | 04/08/2025 | [Sportsbook - Senior Backend Software Engineer](https://algojobs.io/jobs/3718031) | [Betsson Group](https://algojobs.io/company/betsson/) | N/A | Malta |
 | 04/08/2025 | [Founding Software Engineer (Backend) (m/w/x) - Saas B2B Start up (Berlin)](https://algojobs.io/jobs/3715674) | [Cherry Ventures](https://algojobs.io/company/cherryventures/) | $80K - $120K | Berlin |
 | 04/08/2025 | [Sportsbook - Senior Backend Software Engineer](https://algojobs.io/jobs/3718038) | [Betsson Group](https://algojobs.io/company/betsson/) | N/A | Budapest |
 | 04/08/2025 | [Staff Software Engineer - Backend (Pricing)](https://algojobs.io/jobs/3720650) | [Coupang](https://algojobs.io/company/coupang/) | N/A | India |
-| 04/08/2025 | [Senior Backend Product Software Engineer](https://algojobs.io/jobs/3716839) | [Dropbox](https://algojobs.io/company/dropbox/) | $184K - $249K | Remote - Canada: Select locations |
-| 04/08/2025 | [Senior Backend Product Software Engineer](https://algojobs.io/jobs/3716841) | [Dropbox](https://algojobs.io/company/dropbox/) | $195K - $265K | Remote - US: Select locations |
 | 04/08/2025 | [Software Engineer, Backend, Level 4](https://algojobs.io/jobs/3726708) | [Snap](https://algojobs.io/company/snapchat/) | $157K - $235K | New York, New York / Bellevue, Washington / Palo Alto, California / ... |
 | 04/08/2025 | [Software Engineer, Backend, Level 5](https://algojobs.io/jobs/3726729) | [Snap](https://algojobs.io/company/snapchat/) | $209K - $313K | New York - 229 W 43rd St / Bellevue, Washington / Palo Alto, California / ... |
-| 04/08/2025 | [Associate Software Engineer, Backend Python](https://algojobs.io/jobs/3722315) | [PayPal](https://algojobs.io/company/paypal/) | $60K - $147K | San Jose, California, United States of America / New York City, New York, United States of America |
+| 04/08/2025 | [Associate Software Engineer, Backend Python](https://algojobs.io/jobs/3722315) | [PayPal](https://algojobs.io/company/paypal/) | $60K - $147K | New York City, New York, United States of America / San Jose, California, United States of America |
 | 04/08/2025 | [Senior Software Backend Engineer](https://algojobs.io/jobs/3712198) | [Angkas](https://algojobs.io/company/angkas/) | N/A | Makati, Metro Manila, Philippines (Hybrid) |
 | 04/08/2025 | [Senior Compiler Engineer - Backend](https://algojobs.io/jobs/3723014) | [NVIDIA](https://algojobs.io/company/nvidia/) | N/A | US, CA, Remote / US, TX, Remote / US, CA, Santa Clara / ... |
 | 04/08/2025 | [Backend Engineer](https://algojobs.io/jobs/3714586) | [Drivemode](https://algojobs.io/company/drivemode/) | $157K - $202K | Mountain View, CA (Hybrid) |
 | 04/08/2025 | [Senior Engineer – Backend (Python)](https://algojobs.io/jobs/3722319) | [PayPal](https://algojobs.io/company/paypal/) | N/A | Chennai, Tamil Nadu, India / Bangalore, Karnataka, India |
 | 04/08/2025 | [Associate Engineer – Backend (Java)](https://algojobs.io/jobs/3722326) | [PayPal](https://algojobs.io/company/paypal/) | N/A | Chennai, Tamil Nadu, India / Bangalore, Karnataka, India |
-| 04/08/2025 | [Associate Engineer – Backend (Java)](https://algojobs.io/jobs/3722346) | [PayPal](https://algojobs.io/company/paypal/) | N/A | Chennai, Tamil Nadu, India |
 | 04/08/2025 | [Staff Backend Engineer, Growth](https://algojobs.io/jobs/3721848) | [EvenUp](https://algojobs.io/company/evenup/) | N/A | Toronto (hybrid) |
 | 04/08/2025 | [Senior Backend Engineer, Growth](https://algojobs.io/jobs/3721853) | [EvenUp](https://algojobs.io/company/evenup/) | N/A | Toronto (hybrid) |
 | 04/08/2025 | [Backend Engineer - Feature Flags](https://algojobs.io/jobs/3721834) | [PostHog](https://algojobs.io/company/posthog/) | N/A | Remote (EMEA) |
+| 04/08/2025 | [Backend Engineer, Java - Trading Signal](https://algojobs.io/jobs/3742177) | [Binance](https://algojobs.io/company/binance/) | N/A | Asia / Thailand, Bangkok / Taiwan, Taipei (Remote) |
 | 04/08/2025 | [Senior Backend Engineer, Growth (Visa Sponsorship and relocation to the UK offered)](https://algojobs.io/jobs/3715251) | [MoonPay](https://algojobs.io/company/moonpay-1/) | N/A | Lisbon / Croatia - Remote / Krakow / ... |
 | 04/07/2025 | [IC3 - Software Engineer Backend](https://algojobs.io/jobs/3716316) | [Spin Careers](https://algojobs.io/company/digitalfemsa/) | N/A | SILMC - SERVICIOS INTEGRADOS DE LEALTAD, MERCADOTECNIA Y COMUNICACIÓN, S.A.P.I. DE C.V. |
 | 04/07/2025 | [Backend Software Engineer- Platform](https://algojobs.io/jobs/3716314) | [Descript](https://algojobs.io/company/descript/) | $160K - $240K | San Francisco, CA \| Remote |
@@ -39,10 +90,8 @@ All jobs are sourced from [algojobs.io](https://algojobs.io/). For more recent p
 | 04/07/2025 | [Staff Software Engineer - Backend, .Net Core, Azure](https://algojobs.io/jobs/3718258) | [Ivanti](https://algojobs.io/company/a3c41b8b71eff8c4/) | N/A | Bengaluru, India (Bagmane) |
 | 04/07/2025 | [Backend Data Software Engineer](https://algojobs.io/jobs/3717467) | [Telesign](https://algojobs.io/company/telesign/) | N/A | Belgrade |
 | 04/07/2025 | [Senior Backend Engineer (ES)](https://algojobs.io/jobs/3717513) | [FeverUp](https://algojobs.io/company/feverup/) | N/A | Spain |
-| 04/07/2025 | [Backend Software Engineer (Node.js)](https://algojobs.io/jobs/3719830) | [ZoomInfo Technologies LLC](https://algojobs.io/company/zoominfo/) | N/A | Ra'anana, Israel |
 | 04/07/2025 | [Software Development Engineer-II (Backend)](https://algojobs.io/jobs/3716296) | [Innovaccer Inc.](https://algojobs.io/company/innovaccer/) | N/A | Noida, Uttar Pradesh, India |
 | 04/07/2025 | [Senior Software Engineer - Backend, Workflows Operations](https://algojobs.io/jobs/3702865) | [Okta](https://algojobs.io/company/okta/) | N/A | Bengaluru, India |
-| 04/07/2025 | [Software Engineer – Backend (Java)](https://algojobs.io/jobs/3722300) | [PayPal](https://algojobs.io/company/paypal/) | $60K - $147K | San Jose, California, United States of America / New York City, New York, United States of America |
 | 04/07/2025 | [Software Engineer, Backend (Remote)](https://algojobs.io/jobs/3721859) | [Machinify](https://algojobs.io/company/machinify/) | N/A | Remote/Palo Alto, CA |
 | 04/07/2025 | [Senior Backend-End Engineer](https://algojobs.io/jobs/3711888) | [Benivo Limited](https://algojobs.io/company/benivo/) | N/A | Bengaluru, Karnataka, India (Remote) |
 | 04/05/2025 | [Senior Software Engineer - Backend](https://algojobs.io/jobs/3701007) | [Cardless](https://algojobs.io/company/cardless/) | $165K - $220K | San Francisco, California |
@@ -78,7 +127,6 @@ All jobs are sourced from [algojobs.io](https://algojobs.io/). For more recent p
 | 04/03/2025 | [Software Engineering - Backend Developer](https://algojobs.io/jobs/3689264) | [Kyndryl](https://algojobs.io/company/kyndryl/) | N/A | Mumbai, Maharashtra, India |
 | 04/03/2025 | [Backend Engineering Team Lead](https://algojobs.io/jobs/3688231) | [M-KOPA](https://algojobs.io/company/m-kopa/) | N/A | Accra |
 | 04/03/2025 | [Backend Engineering Team Lead](https://algojobs.io/jobs/3688232) | [M-KOPA](https://algojobs.io/company/m-kopa/) | N/A | London  |
-| 04/03/2025 | [Senior Backend Engineer - Tel Aviv](https://algojobs.io/jobs/3683452) | [Payzen Inc.](https://algojobs.io/company/payzen/) | N/A | Tel Aviv (Hybrid) |
 | 04/02/2025 | [Software Engineering Lead, Backend (Java)](https://algojobs.io/jobs/3671245) | [CLEAR - Corporate](https://algojobs.io/company/clear/) | $215K - $250K | New York, New York, United States (In-Office) |
 | 04/02/2025 | [Senior Software Engineer, Backend](https://algojobs.io/jobs/3670514) | [Metropolis](https://algojobs.io/company/metropolis/) | $130K - $200K | Seattle, Washington, United States |
 | 04/02/2025 | [Senior Software Engineer, Backend](https://algojobs.io/jobs/3670519) | [Metropolis](https://algojobs.io/company/metropolis/) | $130K - $200K | Los Angeles, California, United States |
@@ -98,14 +146,11 @@ All jobs are sourced from [algojobs.io](https://algojobs.io/). For more recent p
 | 04/01/2025 | [Backend Engineer](https://algojobs.io/jobs/3656495) | [BuildOps](https://algojobs.io/company/buildops/) | N/A | Raleigh, North Carolina |
 | 04/01/2025 | [Backend Engineer](https://algojobs.io/jobs/3656496) | [BuildOps](https://algojobs.io/company/buildops/) | N/A | Los Angeles, CA |
 | 04/01/2025 | [Backend Engineer](https://algojobs.io/jobs/3656494) | [BuildOps](https://algojobs.io/company/buildops/) | N/A | Toronto, Ontario, Canada |
-| 04/01/2025 | [Backend Software Engineer Sênior (Groceries) - Vaga afirmativa para Mulheres](https://algojobs.io/jobs/3655759) | [iFood](https://algojobs.io/company/ifoodcarreiras/) | N/A | Brasil |
 | 04/01/2025 | [Software Engineer II (Backend, Hardware Accelerate)](https://algojobs.io/jobs/3714279) | [Whoop](https://algojobs.io/company/whoop/) | N/A | Boston, MA |
 | 04/01/2025 | [Backend Software Engineer (C programming)](https://algojobs.io/jobs/3667868) | [IMTF](https://algojobs.io/company/imtf/) | N/A | Givisiez, Fribourg, Switzerland (Hybrid) |
 | 04/01/2025 | [Backend Engineer](https://algojobs.io/jobs/3642552) | [Layer](https://algojobs.io/company/layerfi/) | N/A | San Francisco |
 | 03/31/2025 | [Senior Software Engineer, Backend](https://algojobs.io/jobs/3641031) | [Validation Cloud](https://algojobs.io/company/validationcloud/) | N/A | Remote |
 | 03/31/2025 | [Software Engineer II - Backend Architecture](https://algojobs.io/jobs/3640333) | [BILL](https://algojobs.io/company/billcom/) | $126K - $151K | Draper, Utah, United States; San Jose, California, United States |
-| 03/31/2025 | [Software Engineer II (Backend) – Authoring Platform](https://algojobs.io/jobs/3640875) | [Coursera Sourcing](https://algojobs.io/company/sourcingcour/) | $110K - $145K | United States |
-| 03/31/2025 | [Sr. Software Engineer - Backend](https://algojobs.io/jobs/3640467) | [HashiCorp](https://algojobs.io/company/hashicorp/) | $176K - $207K | United States |
 | 03/31/2025 | [Senior and Staff Backend Software Engineer - Evergreen](https://algojobs.io/jobs/3639522) | [Calm](https://algojobs.io/company/calm/) | $159K - $259K | Los Angeles, CA; San Francisco, CA; New York City, NY; Minneapolis, MN |
 | 03/31/2025 | [Backend Engineer - Vice President](https://algojobs.io/jobs/3641314) | [iCapital](https://algojobs.io/company/icapitalnetwork/) | $160K - $200K | New York, NY, United States |
 | 03/31/2025 | [Backend Engineer II](https://algojobs.io/jobs/3640455) | [HashiCorp](https://algojobs.io/company/hashicorp/) | $151K - $178K | United States |
@@ -121,10 +166,8 @@ All jobs are sourced from [algojobs.io](https://algojobs.io/). For more recent p
 | 03/31/2025 | [Senior Backend Engineer](https://algojobs.io/jobs/3638148) | [Critical Manufacturing](https://algojobs.io/company/critical-manufacturing/) | N/A | Maia, Porto District, Portugal (Hybrid) |
 | 03/31/2025 | [Junior Backend Engineer](https://algojobs.io/jobs/3638149) | [Critical Manufacturing](https://algojobs.io/company/critical-manufacturing/) | N/A | Maia, Porto District, Portugal (Hybrid) |
 | 03/31/2025 | [Backend Engineer (V1FS)](https://algojobs.io/jobs/3645770) | [Trend Micro](https://algojobs.io/company/trendmicro/) | N/A | Taipei, Taiwan |
-| 03/31/2025 | [Backend Engineer Java/Kotlin](https://algojobs.io/jobs/3636622) | [Target](https://algojobs.io/company/target/) | N/A | Tower 02, Manyata Embassy Business Park, Racenahali & Nagawara Villages. Outer Ring Rd, Bangalore 540065, India |
 | 03/31/2025 | [Sr Engineer - Backend (Java/Kotlin)](https://algojobs.io/jobs/3636626) | [Target](https://algojobs.io/company/target/) | N/A | Tower 02, Manyata Embassy Business Park, Racenahali & Nagawara Villages. Outer Ring Rd, Bangalore 540065, India |
-| 03/31/2025 | [Backend Engineer - Content Platform](https://algojobs.io/jobs/3639031) | [Spotify](https://algojobs.io/company/spotify/) | N/A | Stockholm / London (Hybrid) |
-| 03/30/2025 | [Software Engineer, Backend (7+ years of experience)](https://algojobs.io/jobs/3636145) | [Captions](https://algojobs.io/company/captions/) | N/A | Union Square, New York City |
+| 03/31/2025 | [Backend Engineer - Content Platform](https://algojobs.io/jobs/3639031) | [Spotify](https://algojobs.io/company/spotify/) | N/A | London / Stockholm (Hybrid) |
 | 03/29/2025 | [Mid Backend Engineer - Payments MX](https://algojobs.io/jobs/3635900) | [Clara ](https://algojobs.io/company/clara/) | N/A | Latin America  |
 | 03/29/2025 | [Senior Backend Software Engineer (Python) - Invoicing Systems](https://algojobs.io/jobs/3628281) | [Gartner](https://algojobs.io/company/gartner/) | N/A | Barcelona, Spain |
 | 03/28/2025 | [IC4 – Sr Software Engineer Backend](https://algojobs.io/jobs/3620037) | [Spin Careers](https://algojobs.io/company/digitalfemsa/) | N/A | SILMC - SERVICIOS INTEGRADOS DE LEALTAD, MERCADOTECNIA Y COMUNICACIÓN, S.A.P.I. DE C.V. |
@@ -145,6 +188,7 @@ All jobs are sourced from [algojobs.io](https://algojobs.io/). For more recent p
 | 03/27/2025 | [Staff Software Engineer, Backend](https://algojobs.io/jobs/3611635) | [DISCO](https://algojobs.io/company/disco/) | $190 - $210000 | New York City, New York |
 | 03/27/2025 | [Staff Software Engineer, Backend](https://algojobs.io/jobs/3611636) | [DISCO](https://algojobs.io/company/disco/) | N/A | Austin, TX |
 | 03/27/2025 | [Intermediate Backend (Go) Engineer, Runway](https://algojobs.io/jobs/3612880) | [GitLab](https://algojobs.io/company/gitlab/) | N/A | Remote, APAC |
+| 03/27/2025 | [Staff Backend Engineer - Core Services](https://algojobs.io/jobs/3613068) | [Verkada](https://algojobs.io/company/verkada/) | $150K - $280K | San Mateo, CA United States |
 | 03/27/2025 | [Backend Engineer - Memberships](https://algojobs.io/jobs/3612780) | [N26](https://algojobs.io/company/n26/) | N/A | Berlin, Barcelona |
 | 03/27/2025 | [Backend Engineer - Investments](https://algojobs.io/jobs/3612776) | [N26](https://algojobs.io/company/n26/) | N/A | Berlin, Vienna, Barcelona |
 | 03/27/2025 | [Senior Software Engineer, Backend (Platform - Crypto Data Foundations)](https://algojobs.io/jobs/3595905) | [Coinbase Careers Page](https://algojobs.io/company/coinbase/) | $186K - $218K | USA (Remote) |
@@ -153,7 +197,6 @@ All jobs are sourced from [algojobs.io](https://algojobs.io/). For more recent p
 | 03/27/2025 | [Senior Software Engineer, Yahoo Mail Backend](https://algojobs.io/jobs/3615125) | [Yahoo](https://algojobs.io/company/ouryahoo/) | N/A | Israel |
 | 03/27/2025 | [Backend Software Engineer](https://algojobs.io/jobs/3593801) | [Megaport](https://algojobs.io/company/megaport/) | N/A | Brisbane, Queensland (Hybrid) |
 | 03/27/2025 | [Senior Backend Software Engineer](https://algojobs.io/jobs/3593803) | [Megaport](https://algojobs.io/company/megaport/) | N/A | Brisbane, Queensland / Australia (Hybrid) |
-| 03/27/2025 | [Intern Backend Engineering](https://algojobs.io/jobs/3617701) | [Gaming Innovation Group](https://algojobs.io/company/gig-6/) | N/A | St. Julian's, St. Julian's, Malta (Hybrid) |
 | 03/27/2025 | [Staff Engineer, Backend (Java)](https://algojobs.io/jobs/3622687) | [PayPal](https://algojobs.io/company/paypal/) | N/A | Scottsdale, Arizona, United States of America |
 | 03/27/2025 | [Lead Engineer- Backend](https://algojobs.io/jobs/3599774) | [Target](https://algojobs.io/company/target/) | N/A | Bangalore,India |
 | 03/26/2025 | [Senior Backend Software Engineer](https://algojobs.io/jobs/3596529) | [Care.com](https://algojobs.io/company/carecom/) | N/A | Salt Lake City, UT |
@@ -177,7 +220,6 @@ All jobs are sourced from [algojobs.io](https://algojobs.io/). For more recent p
 | 03/25/2025 | [Senior Backend Engineer - Investments](https://algojobs.io/jobs/3583766) | [N26](https://algojobs.io/company/n26/) | N/A | Berlin |
 | 03/25/2025 | [Backend Engineer - Payments](https://algojobs.io/jobs/3583763) | [N26](https://algojobs.io/company/n26/) | N/A | Barcelona |
 | 03/25/2025 | [Software Engineer, Backend ( Developer Experience - Server Foundations)](https://algojobs.io/jobs/3568103) | [Coinbase Careers Page](https://algojobs.io/company/coinbase/) | $152K - $179K | USA (Remote) |
-| 03/25/2025 | [Senior Software Engineer - Backend Java](https://algojobs.io/jobs/3588773) | [PayPal](https://algojobs.io/company/paypal/) | $72K - $176K | San Jose, California, United States of America |
 | 03/25/2025 | [(USA) Software Engineer III (Backend)](https://algojobs.io/jobs/3589312) | [Walmart Inc.](https://algojobs.io/company/walmart/) | $90K - $180K | (USA) ISD Office - DGTC AR BENTONVILLE Home Office, United States of America |
 | 03/25/2025 | [(USA) Software Engineer III (Backend)](https://algojobs.io/jobs/3589524) | [Walmart](https://algojobs.io/company/walmart/) | $90K - $180K | (USA) ISD Office - DGTC AR BENTONVILLE Home Office, United States of America |
 | 03/25/2025 | [(USA) Senior, Software Engineer (Backend)](https://algojobs.io/jobs/3589315) | [Walmart Inc.](https://algojobs.io/company/walmart/) | $90K - $180K | (USA) ISD Office - DGTC AR BENTONVILLE Home Office, United States of America |
@@ -208,17 +250,15 @@ All jobs are sourced from [algojobs.io](https://algojobs.io/). For more recent p
 | 03/21/2025 | [Backend Engineer - Financial empowerment](https://algojobs.io/jobs/3554091) | [N26](https://algojobs.io/company/n26/) | N/A | Berlin |
 | 03/21/2025 | [Junior Backend Engineer](https://algojobs.io/jobs/3552736) | [SmartBear](https://algojobs.io/company/smartbear/) | N/A | Wrocław, Lower Silesian Voivodeship, Poland |
 | 03/21/2025 | [Backend Engineer - Financial Empowerment](https://algojobs.io/jobs/3554093) | [N26](https://algojobs.io/company/n26/) | N/A | Berlin |
+| 03/21/2025 | [Senior Backend Engineer - Financial empowerment](https://algojobs.io/jobs/3554099) | [N26](https://algojobs.io/company/n26/) | N/A | Barcelona |
 | 03/21/2025 | [Senior Backend Engineer - Financial empowerment](https://algojobs.io/jobs/3554101) | [N26](https://algojobs.io/company/n26/) | N/A | Berlin |
 | 03/21/2025 | [Intermediate Backend Engineer(Go), Runner](https://algojobs.io/jobs/3554207) | [GitLab](https://algojobs.io/company/gitlab/) | N/A | Remote, Canada; Remote, EMEA; Remote, Europe; Remote, United Kingdom |
 | 03/21/2025 | [Backend Software Engineer](https://algojobs.io/jobs/3552054) | [ASAPP](https://algojobs.io/company/asapp-2/) | N/A | Argentina (Remote) |
 | 03/21/2025 | [Backend Engineer](https://algojobs.io/jobs/3543486) | [ING Hubs Slovakia](https://algojobs.io/company/ing/) | N/A | Manila (World Plaza), Philippines |
 | 03/20/2025 | [Software Engineer (Backend)](https://algojobs.io/jobs/3538634) | [MANTL](https://algojobs.io/company/mantl/) | $140K - $160K | United States - Remote |
-| 03/20/2025 | [Software Engineer Backend, Apps & Solutions (India- Remote)](https://algojobs.io/jobs/3539826) | [League Inc.](https://algojobs.io/company/leagueinc/) | $40K - $50K | India - Remote |
 | 03/20/2025 | [Intermediate Backend Engineer (Ruby), Software Supply Chain Security: Authentication](https://algojobs.io/jobs/3540452) | [GitLab](https://algojobs.io/company/gitlab/) | $90K - $210K | Remote |
 | 03/20/2025 | [Backend Engineer III - Accounts Team](https://algojobs.io/jobs/3540387) | [Stash](https://algojobs.io/company/stashinvest/) | $113K - $170K | New York |
 | 03/20/2025 | [Staff Software Engineer - Backend, Domains](https://algojobs.io/jobs/3540512) | [Squarespace](https://algojobs.io/company/squarespace/) | N/A | Aveiro |
-| 03/20/2025 | [Principal Backend Engineer](https://algojobs.io/jobs/3539105) | [Backbase](https://algojobs.io/company/workatbackbase/) | N/A | Hyderabad |
-| 03/20/2025 | [Software Engineer - Backend](https://algojobs.io/jobs/3538722) | [Altium](https://algojobs.io/company/altium/) | N/A | Belgrade, Belgrade, Serbia |
 | 03/20/2025 | [Software Engineer - Backend (Mumbai)](https://algojobs.io/jobs/3542441) | [BrowserStack](https://algojobs.io/company/browserstack/) | N/A | Mumbai Remote, India |
 | 03/20/2025 | [Staff Software Engineer, Backend, Ad Marketplace](https://algojobs.io/jobs/3543272) | [Snap](https://algojobs.io/company/snapchat/) | $229K - $343K | New York, New York / Los Angeles, California / Bellevue, Washington / ... |
 | 03/20/2025 | [Senior Software Engineer, Backend - Reporting & Issue Management](https://algojobs.io/jobs/3541976) | [Vanta](https://algojobs.io/company/vanta/) | N/A | U.S. (Remote) |
@@ -226,7 +266,6 @@ All jobs are sourced from [algojobs.io](https://algojobs.io/). For more recent p
 | 03/20/2025 | [Senior Software Engineer (Backend - Payments & Architecture)](https://algojobs.io/jobs/3537388) | [OKTO](https://algojobs.io/company/okto/) | N/A | Marousi, Attica, Greece (Hybrid) |
 | 03/20/2025 | [Senior Software Engineer, Backend Python](https://algojobs.io/jobs/3545675) | [PayPal](https://algojobs.io/company/paypal/) | $84K - $204K | San Jose, California, United States of America / New York City, New York, United States of America |
 | 03/20/2025 | [Senior Backend Software Engineer - London](https://algojobs.io/jobs/3538105) | [Teleport](https://algojobs.io/company/teleport/) | N/A | London (Hybrid) |
-| 03/20/2025 | [Senior Backend Engineer -. Netcore + Azure PAAS](https://algojobs.io/jobs/3537466) | [ProArch](https://algojobs.io/company/proarch-3/) | N/A | India (Remote) |
 | 03/20/2025 | [Founding Engineer (Backend/Infra)](https://algojobs.io/jobs/3537942) | [Menlo Ventures](https://algojobs.io/company/menlovc/) | $130K - $180K | San Francisco Bay Area (Hybrid) |
 | 03/20/2025 | [Backend Engineer - Platform Developer Experience](https://algojobs.io/jobs/3538320) | [Spotify](https://algojobs.io/company/spotify/) | N/A | London (Hybrid) |
 | 03/19/2025 | [Senior Backend Software Engineer \| Python](https://algojobs.io/jobs/3525551) | [AB InBev Growth Group](https://algojobs.io/company/abinbev/) | N/A | Campinas, Brazil |
@@ -236,22 +275,18 @@ All jobs are sourced from [algojobs.io](https://algojobs.io/). For more recent p
 | 03/19/2025 | [Backend Engineer](https://algojobs.io/jobs/3525177) | [Whalar Group](https://algojobs.io/company/whalarinc/) | N/A | Tallinn, Estonia |
 | 03/19/2025 | [Senior Software Engineer II, Backend Development](https://algojobs.io/jobs/3512116) | [HubSpot](https://algojobs.io/company/hubspotjobs/) | N/A | Remote - United Kingdom |
 | 03/19/2025 | [Software Engineer II, Backend](https://algojobs.io/jobs/3510181) | [Circles.Life](https://algojobs.io/company/circleslife/) | N/A | Bangalore |
-| 03/19/2025 | [Software Engineer, Backend](https://algojobs.io/jobs/3516809) | [PayPal](https://algojobs.io/company/paypal/) | N/A | Central Singapore, Singapore |
-| 03/19/2025 | [Senior Software Engineer, Backend](https://algojobs.io/jobs/3522625) | [Lawhive](https://algojobs.io/company/lawhive/) | N/A | London, England, United Kingdom (Hybrid) |
 | 03/19/2025 | [Staff Software Engineer, Backend Java](https://algojobs.io/jobs/3531671) | [PayPal](https://algojobs.io/company/paypal/) | $96K - $234K | Chicago, Illinois, United States of America / Austin, Texas, United States of America / San Jose, California, United States of America / ... |
 | 03/19/2025 | [Senior Software Engineer, Backend](https://algojobs.io/jobs/3528047) | [Squint Inc](https://algojobs.io/company/squint.ai/) | $150K - $200K | SF Bay Area |
 | 03/19/2025 | [Backend Software Engineer for Threat Intel (Remote in EU or US East Coast)](https://algojobs.io/jobs/3538322) | [Abusix](https://algojobs.io/company/abusix/) | N/A | EU countries (Remote) |
 | 03/19/2025 | [Senior Software Engineer, Backend Java](https://algojobs.io/jobs/3531670) | [PayPal](https://algojobs.io/company/paypal/) | $84K - $204K | New York City, New York, United States of America / Austin, Texas, United States of America / Chicago, Illinois, United States of America / ... |
 | 03/19/2025 | [Backend Engineer](https://algojobs.io/jobs/3512587) | [Artisan](https://algojobs.io/company/artisan/) | N/A | Canada (Remote) |
 | 03/19/2025 | [Backend Engineer](https://algojobs.io/jobs/3512589) | [Artisan](https://algojobs.io/company/artisan/) | N/A | South America (Remote) |
-| 03/19/2025 | [Backend Engineer (Remote)](https://algojobs.io/jobs/3528038) | [PermitFlow](https://algojobs.io/company/permitflow/) | N/A | USA (Remote) |
 | 03/19/2025 | [Senior Backend Engineer, AI / ML](https://algojobs.io/jobs/3528146) | [Klue](https://algojobs.io/company/klue/) | N/A | Toronto, Ontario |
 | 03/19/2025 | [Staff Backend Engineer, AI/ML](https://algojobs.io/jobs/3528147) | [Klue](https://algojobs.io/company/klue/) | N/A | Toronto, Ontario |
 | 03/18/2025 | [Backend Software Engineer](https://algojobs.io/jobs/3510933) | [1-800 Contacts](https://algojobs.io/company/1800contacts/) | N/A | Draper, UT (Hybrid) |
 | 03/18/2025 | [Software Engineer II, Backend (Fraud Decisioning)](https://algojobs.io/jobs/3511441) | [Affirm](https://algojobs.io/company/affirm/) | $125K - $175K | Remote Canada |
 | 03/18/2025 | [Senior Backend Software Engineer - Java](https://algojobs.io/jobs/3511007) | [Zepz](https://algojobs.io/company/zepzgroup/) | N/A | South Africa |
 | 03/18/2025 | [Staff Software Engineer (Backend)](https://algojobs.io/jobs/3509523) | [Guideline, Inc.](https://algojobs.io/company/guideline/) | $183K - $271K | United States |
-| 03/18/2025 | [Senior Software Engineer, Backend ( GOLAN)](https://algojobs.io/jobs/3495939) | [Circles.Life](https://algojobs.io/company/circleslife/) | N/A | Bangalore |
 | 03/18/2025 | [Software Backend Engineer](https://algojobs.io/jobs/3501098) | [MY00 SWIFT Support Services Malaysia Sdn. Bhd.](https://algojobs.io/company/swift/) | N/A | Brussels area, Belgium |
 | 03/18/2025 | [Lead Backend Software Engineer](https://algojobs.io/jobs/3516717) | [Babel](https://algojobs.io/company/babelgroup/) | N/A | LISBOA, Portugal |
 | 03/17/2025 | [Sr. Backend Software Engineer - End Client Experience](https://algojobs.io/jobs/3496637) | [Addepar](https://algojobs.io/company/addepar1/) | $126K - $197K | Remote, USA |
@@ -269,6 +304,7 @@ All jobs are sourced from [algojobs.io](https://algojobs.io/). For more recent p
 | 03/17/2025 | [Senior/Lead Backend Engineer - Colombia](https://algojobs.io/jobs/3507684) | [Deep Origin](https://algojobs.io/company/deeporigin/) | N/A | Colombia (Remote) |
 | 03/17/2025 | [Senior/Lead Backend Engineer - Mexico](https://algojobs.io/jobs/3507685) | [Deep Origin](https://algojobs.io/company/deeporigin/) | N/A | Mexico (Remote) |
 | 03/17/2025 | [Senior/Lead Backend Engineer - Poland](https://algojobs.io/jobs/3507690) | [Deep Origin](https://algojobs.io/company/deeporigin/) | N/A | Poland (Remote) |
+| 03/17/2025 | [Senior/Lead Backend Engineer - Brazil](https://algojobs.io/jobs/3507673) | [Deep Origin](https://algojobs.io/company/deeporigin/) | N/A | Brazil (Remote) |
 | 03/16/2025 | [Staff Software Engineer - Backend](https://algojobs.io/jobs/3481423) | [Sigma Computing](https://algojobs.io/company/sigmacomputing/) | $240K - $270K | New York City, NY |
 | 03/16/2025 | [Senior Software Engineer - Backend](https://algojobs.io/jobs/3481425) | [Sigma Computing](https://algojobs.io/company/sigmacomputing/) | $150K - $220K | New York City, NY |
 | 03/16/2025 | [Staff Software Engineer - Backend](https://algojobs.io/jobs/3481422) | [Sigma Computing](https://algojobs.io/company/sigmacomputing/) | $240K - $270K | San Francisco, CA |
@@ -283,13 +319,11 @@ All jobs are sourced from [algojobs.io](https://algojobs.io/). For more recent p
 | 03/14/2025 | [Senior Software Engineer (Backend)](https://algojobs.io/jobs/3480107) | [dbt Labs](https://algojobs.io/company/dbtlabsinc/) | N/A | Ireland - Remote |
 | 03/14/2025 | [Senior Software Engineer (Backend)](https://algojobs.io/jobs/3480108) | [dbt Labs](https://algojobs.io/company/dbtlabsinc/) | N/A | Ireland - Remote |
 | 03/14/2025 | [Software Engineer, Backend](https://algojobs.io/jobs/3479734) | [Lucidworks](https://algojobs.io/company/lucidworks/) | N/A | Remote - Peru / Remote - Mexico |
-| 03/14/2025 | [Senior Software Engineer- Backend (Java)](https://algojobs.io/jobs/3478560) | [ESL FACEIT Group](https://algojobs.io/company/efg/) | N/A | Spain (Remote) |
 | 03/14/2025 | [Senior Backend Engineer](https://algojobs.io/jobs/3478918) | [HR Hints](https://algojobs.io/company/hr-hints/) | N/A | Warsaw (Hybrid) |
 | 03/14/2025 | [Backend Engineer, Integrations Support (Philippines)](https://algojobs.io/jobs/3482987) | [CoinTracker](https://algojobs.io/company/cointracker/) | N/A | Philippines |
 | 03/13/2025 | [Software Engineering, Backend](https://algojobs.io/jobs/3466885) | [Evolutionary Scale](https://algojobs.io/company/evolutionaryscale/) | N/A | New York, NY // San Francisco, CA, United States |
 | 03/13/2025 | [Graduate Backend Engineer - Python](https://algojobs.io/jobs/3466093) | [YouGov](https://algojobs.io/company/yougov/) | N/A | Warsaw,  Poland |
 | 03/13/2025 | [Senior Software Engineer - Backend (Java/Spring boot)](https://algojobs.io/jobs/3466217) | [Too Good To Go](https://algojobs.io/company/toogoodtogo/) | N/A | København, Hovedstaden, Denmark |
-| 03/13/2025 | [Backend Engineer - Lending](https://algojobs.io/jobs/3467588) | [N26](https://algojobs.io/company/n26/) | N/A | Barcelona |
 | 03/13/2025 | [Senior Backend Engineer - Lending](https://algojobs.io/jobs/3467589) | [N26](https://algojobs.io/company/n26/) | N/A | Barcelona, Berlin |
 | 03/13/2025 | [Software Engineer, Backend (Cluster Management)- Bangalore, India](https://algojobs.io/jobs/3466390) | [Cockroach Labs](https://algojobs.io/company/cockroachlabs/) | N/A | Bangalore, India |
 | 03/13/2025 | [Backend Senior Software Engineer, Identity](https://algojobs.io/jobs/3469175) | [Vanta](https://algojobs.io/company/vanta/) | N/A | U.S. (Remote) |
@@ -307,8 +341,6 @@ All jobs are sourced from [algojobs.io](https://algojobs.io/). For more recent p
 | 03/12/2025 | [Senior Backend Software Engineer - Bangalore](https://algojobs.io/jobs/3451063) | [Oleria Security](https://algojobs.io/company/oleria-security/) | N/A | Bangalore, Karnataka, IND |
 | 03/12/2025 | [Backend Senior Software Engineer, Monetization Platform](https://algojobs.io/jobs/3454338) | [Vanta](https://algojobs.io/company/vanta/) | N/A | U.S. (Remote) |
 | 03/12/2025 | [Staff Engineer - Backend (VicOne)](https://algojobs.io/jobs/3441301) | [Trend Micro](https://algojobs.io/company/trendmicro/) | N/A | Taipei, Taiwan |
-| 03/12/2025 | [Staff Backend Engineer (Remote, Europe)](https://algojobs.io/jobs/3454364) | [Nango](https://algojobs.io/company/nango/) | N/A | Remote - Europe |
-| 03/12/2025 | [Staff Backend Engineer (Remote)](https://algojobs.io/jobs/3454367) | [Nango](https://algojobs.io/company/nango/) | N/A | USA (Remote) |
 | 03/11/2025 | [Senior Software Engineer (Backend)](https://algojobs.io/jobs/3437359) | [Freeform](https://algojobs.io/company/freeformfuturecorp/) | $150K - $250K | Los Angeles, CA (On-site) |
 | 03/11/2025 | [Senior Backend Engineer, Data & Insights](https://algojobs.io/jobs/3436555) | [OpenPhone](https://algojobs.io/company/openphone/) | $192K - $212K | Remote - Canada |
 | 03/11/2025 | [Principal Software Engineer (Backend), Social Identity](https://algojobs.io/jobs/3438476) | [Roblox](https://algojobs.io/company/roblox/) | $273K - $338K | San Mateo, CA, United States |
@@ -327,7 +359,6 @@ All jobs are sourced from [algojobs.io](https://algojobs.io/). For more recent p
 | 03/10/2025 | [Backend Software Engineer](https://algojobs.io/jobs/3421052) | [Paxos](https://algojobs.io/company/joinpaxos/) | N/A | Armenia |
 | 03/10/2025 | [Mid Backend Engineer](https://algojobs.io/jobs/3421357) | [Clara ](https://algojobs.io/company/clara/) | N/A | Latin America  |
 | 03/10/2025 | [Sr Backend Engineer](https://algojobs.io/jobs/3421363) | [Clara ](https://algojobs.io/company/clara/) | N/A | Latin America  |
-| 03/10/2025 | [Senior Software Engineer - Backend](https://algojobs.io/jobs/3424168) | [Deepgram](https://algojobs.io/company/deepgram/) | N/A | Ann Arbor, MI |
 | 03/10/2025 | [Senior/Software Engineer III - Backend, Marketplace](https://algojobs.io/jobs/3443950) | [Walmart](https://algojobs.io/company/walmart/) | $117K - $234K | Sunnyvale, CA, United States of America |
 | 03/09/2025 | [Senior Backend Software Engineer - Cloud Workload Security Team](https://algojobs.io/jobs/3417021) | [SentinelOne](https://algojobs.io/company/sentinellabs/) | N/A | Israel |
 | 03/08/2025 | [Software Engineer, Backend (Consumer - International)](https://algojobs.io/jobs/3404483) | [Coinbase Careers Page](https://algojobs.io/company/coinbase/) | $154K - $154K | Remote - Canada |
@@ -336,7 +367,9 @@ All jobs are sourced from [algojobs.io](https://algojobs.io/). For more recent p
 | 03/07/2025 | [Backend Software Engineer - Search - Serbia](https://algojobs.io/jobs/3403220) | [Perplexity AI](https://algojobs.io/company/perplexityai/) | $80K - $160K | Belgrade Serbia |
 | 03/07/2025 | [Backend Engineer (Rendering)](https://algojobs.io/jobs/3403000) | [Smartly](https://algojobs.io/company/smartlyio/) | N/A | Helsinki |
 | 03/07/2025 | [Staff Software Engineer (Backend)](https://algojobs.io/jobs/3404289) | [EarnIn](https://algojobs.io/company/earnin/) | $252K - $308K | Vancouver, Canada |
+| 03/07/2025 | [Software Engineer III, Backend - Falcon (Remote, CAN)](https://algojobs.io/jobs/3408735) | [CrowdStrike](https://algojobs.io/company/crowdstrike/) | $110K - $180K | Canada - Remote AB / Canada - Remote NB / Canada - Remote QC / ... |
 | 03/07/2025 | [Senior/Software Engineer III - Backend, Marketplace](https://algojobs.io/jobs/3418381) | [Walmart](https://algojobs.io/company/walmart/) | $117K - $234K | Sunnyvale, CA, United States of America |
+| 03/07/2025 | [Sr. Software Engineer, Backend - Falcon (Remote, CAN)](https://algojobs.io/jobs/3408733) | [CrowdStrike](https://algojobs.io/company/crowdstrike/) | $150K - $225K | Canada - Remote AB / Canada - Remote NB / Canada - Remote QC / ... |
 | 03/06/2025 | [Software Engineer, Backend (Consumer - New Product Vertical)](https://algojobs.io/jobs/3387634) | [Coinbase Careers Page](https://algojobs.io/company/coinbase/) | $152K - $179K | USA (Remote) |
 | 03/06/2025 | [Mid-level Backend Software Engineer \| Node/Typescript and Python](https://algojobs.io/jobs/3386449) | [AB InBev Growth Group](https://algojobs.io/company/abinbev/) | N/A | Campinas, Brazil |
 | 03/06/2025 | [Senior Software Engineer (SEO Backend)](https://algojobs.io/jobs/3387482) | [KAYAK](https://algojobs.io/company/kayak/) | N/A | Kaunas |
@@ -360,12 +393,10 @@ All jobs are sourced from [algojobs.io](https://algojobs.io/). For more recent p
 | 03/05/2025 | [Staff Backend Software Engineer](https://algojobs.io/jobs/3384992) | [Firework](https://algojobs.io/company/fireworkhq/) | N/A | San Mateo, California (Hybrid) |
 | 03/05/2025 | [Backend Engineer](https://algojobs.io/jobs/3375223) | [Artisan](https://algojobs.io/company/artisan/) | N/A | India (Remote) |
 | 03/05/2025 | [Backend Engineer](https://algojobs.io/jobs/3375225) | [Artisan](https://algojobs.io/company/artisan/) | N/A | San Francisco |
-| 03/04/2025 | [Sr Backend Engineer](https://algojobs.io/jobs/3372624) | [Clara ](https://algojobs.io/company/clara/) | N/A | Latin America  |
 | 03/04/2025 | [Backend Software Engineer - API](https://algojobs.io/jobs/3372669) | [Perplexity AI](https://algojobs.io/company/perplexityai/) | $180K - $250K | New York Metro Area · San Francisco Bay Area |
 | 03/04/2025 | [Senior Backend Software Engineer - PTVR](https://algojobs.io/jobs/3373352) | [MNTN](https://algojobs.io/company/mntn/) | N/A | United States |
 | 03/04/2025 | [Backend Software Engineer, Cloudkitchens - Infrastructure](https://algojobs.io/jobs/3359181) | [CloudKitchens](https://algojobs.io/company/css/) | N/A | Austin, TX |
 | 03/04/2025 | [Backend Software Engineer, Cloudkitchens - Infrastructure](https://algojobs.io/jobs/3359318) | [City Storage Systems](https://algojobs.io/company/citystoragesystems/) | N/A | Austin, TX |
-| 03/04/2025 | [Senior Backend Engineer -Grow & Engage](https://algojobs.io/jobs/3360221) | [N26](https://algojobs.io/company/n26/) | N/A | Berlin, Vienna, Barcelona |
 | 03/04/2025 | [Sr. Software Development Engineer - Backend (Multiple Roles)](https://algojobs.io/jobs/3359670) | [HashiCorp](https://algojobs.io/company/hashicorp/) | N/A | India - Bengaluru |
 | 03/04/2025 | [Senior Software Engineer (SDET Backend API's)](https://algojobs.io/jobs/3378962) | [India: Mastercard Technology Private Limited](https://algojobs.io/company/mastercard/) | $104K - $167K | Vancouver, Canada |
 | 03/04/2025 | [Senior Software Engineer (Backend)](https://algojobs.io/jobs/3361116) | [Traba](https://algojobs.io/company/traba/) | $160K - $190K | New York City, NY |
@@ -380,29 +411,24 @@ All jobs are sourced from [algojobs.io](https://algojobs.io/). For more recent p
 | 03/03/2025 | [Backend Software Engineer - Web3](https://algojobs.io/jobs/3344525) | [Betsson Group](https://algojobs.io/company/betsson/) | N/A | Tallinn |
 | 03/03/2025 | [Backend Software Engineer - Web3](https://algojobs.io/jobs/3344526) | [Betsson Group](https://algojobs.io/company/betsson/) | N/A | Malta |
 | 03/03/2025 | [Backend Engineer, SaaS platform](https://algojobs.io/jobs/3344402) | [Veeam Software](https://algojobs.io/company/veeamsoftware/) | N/A | Prague, Czechia |
-| 03/03/2025 | [Software Engineer II, BackEnd](https://algojobs.io/jobs/3344785) | [Rent the Runway](https://algojobs.io/company/renttherunway/) | N/A | Galway, Ireland |
 | 03/03/2025 | [Senior Software Engineer, Backend - {MADE - Detection}](https://algojobs.io/jobs/3343962) | [Abnormal Security](https://algojobs.io/company/abnormalsecurity/) | N/A | Hybrid - Bangalore, India |
-| 03/03/2025 | [Software Engineer II, Backend - {MADE - Detection}](https://algojobs.io/jobs/3343965) | [Abnormal Security](https://algojobs.io/company/abnormalsecurity/) | N/A | Hybrid - Bangalore, India |
 | 03/03/2025 | [Senior Software Engineer, Backend - {Entity Scoring Signals - Detection}](https://algojobs.io/jobs/3343961) | [Abnormal Security](https://algojobs.io/company/abnormalsecurity/) | N/A | Hybrid - Bangalore, India |
 | 03/03/2025 | [Backend Engineer, SaaS Data Protection](https://algojobs.io/jobs/3344401) | [Veeam Software](https://algojobs.io/company/veeamsoftware/) | N/A | Pune, India |
 | 03/03/2025 | [Senior Backend Engineer-Integration](https://algojobs.io/jobs/3345316) | [Logiwa](https://algojobs.io/company/logiwacareers/) | N/A | Istanbul |
 | 03/03/2025 | [Senior/Software Engineer III - Backend, Marketplace](https://algojobs.io/jobs/3365456) | [Walmart](https://algojobs.io/company/walmart/) | $117K - $234K | Sunnyvale, CA, United States of America |
 | 03/03/2025 | [Staff Backend Software Engineer (Hybrid)](https://algojobs.io/jobs/3346167) | [Fiddler AI](https://algojobs.io/company/fiddler-ai/) | $190K - $220K | Palo Alto (Hybrid) |
+| 03/03/2025 | [Java backend engineer, Aladdin Engineering - Vice President](https://algojobs.io/jobs/3349718) | [BlackRock](https://algojobs.io/company/blackrock/) | N/A | Mumbai, India |
 | 03/02/2025 | [Senior Software Engineer (Backend)](https://algojobs.io/jobs/3342455) | [Ontic](https://algojobs.io/company/ontic/) | N/A | Noida, India |
 | 03/01/2025 | [Sr Backend Engineer](https://algojobs.io/jobs/3336260) | [Clara ](https://algojobs.io/company/clara/) | N/A | Latin America  |
 | 02/28/2025 | [Software Engineer, Backend - Agents](https://algojobs.io/jobs/3336891) | [Glean](https://algojobs.io/company/gleanwork/) | $140K - $265K | Palo Alto, CA |
-| 02/28/2025 | [Staff Software Engineer (Backend Solutions)](https://algojobs.io/jobs/3336096) | [The Weather Company](https://algojobs.io/company/theweathercompany/) | N/A | Andover, MA |
-| 02/28/2025 | [Senior Backend Engineer - Core Services](https://algojobs.io/jobs/3337284) | [Verkada](https://algojobs.io/company/verkada/) | $130K - $280K | San Mateo, CA United States |
 | 02/28/2025 | [Backend Engineer](https://algojobs.io/jobs/3336294) | [Fellow](https://algojobs.io/company/fellow/) | $140K - $155K | San Francisco, CA |
 | 02/28/2025 | [Software Engineer - Backend](https://algojobs.io/jobs/3336112) | [Altium](https://algojobs.io/company/altium/) | N/A | Portugal Remote |
 | 02/28/2025 | [Software Engineer, Backend (Consumer Products)](https://algojobs.io/jobs/3305322) | [Coinbase Careers Page](https://algojobs.io/company/coinbase/) | N/A | Remote - Brazil |
 | 02/28/2025 | [Sr Software Development Engineer - Backend](https://algojobs.io/jobs/3302950) | [Nium](https://algojobs.io/company/nium/) | N/A | Mumbai (Hybrid) |
-| 02/28/2025 | [Backend Engineer](https://algojobs.io/jobs/3311147) | [Ankorstore](https://algojobs.io/company/ankorstore/) | N/A | Paris |
 | 02/27/2025 | [Senior Software Engineer - Backend (java)](https://algojobs.io/jobs/3280545) | [Altium](https://algojobs.io/company/altium/) | N/A | Wrocław, Lower Silesian Voivodeship, Poland |
 | 02/27/2025 | [Backend Engineer](https://algojobs.io/jobs/3311130) | [FlagshipRTL](https://algojobs.io/company/flagshiprtl/) | N/A | Remote |
 | 02/26/2025 | [Senior Software Engineer, Backend](https://algojobs.io/jobs/3282046) | [Flex](https://algojobs.io/company/flex/) | $197K - $213K | U.S. (Remote) |
 | 02/26/2025 | [Senior Software Engineer, Backend Code Team](https://algojobs.io/jobs/3281905) | [Semgrep](https://algojobs.io/company/semgrep/) | N/A | San Francisco/New York/Boston/Denver |
-| 02/26/2025 | [Sr Backend Engineer](https://algojobs.io/jobs/3280782) | [Clara ](https://algojobs.io/company/clara/) | N/A | Latin America  |
 | 02/26/2025 | [Staff Software Engineer, Backend](https://algojobs.io/jobs/3266264) | [SevenRooms](https://algojobs.io/company/sevenrooms/) | N/A | London, United Kingdom |
 | 02/26/2025 | [Senior Software Engineer (Backend)](https://algojobs.io/jobs/3266152) | [Mindbody](https://algojobs.io/company/mindbody/) | N/A | Peru |
 | 02/26/2025 | [Staff Software Engineer, Backend, Sales Forecasting](https://algojobs.io/jobs/3267032) | [HubSpot](https://algojobs.io/company/hubspotjobs/) | N/A | Cambridge, MA, USA |
@@ -422,6 +448,7 @@ All jobs are sourced from [algojobs.io](https://algojobs.io/). For more recent p
 | 02/24/2025 | [Software Engineer, Backend (Consumer - CETI)](https://algojobs.io/jobs/3242802) | [Coinbase Careers Page](https://algojobs.io/company/coinbase/) | $154K - $154K | Remote - Canada |
 | 02/24/2025 | [Software Engineer II, Backend (Trust & Safety Foundations)](https://algojobs.io/jobs/3243050) | [Affirm](https://algojobs.io/company/affirm/) | $125K - $175K | Remote Canada |
 | 02/24/2025 | [Senior Backend Engineer, Go](https://algojobs.io/jobs/3243073) | [Asset Reality](https://algojobs.io/company/assetreality/) | N/A | London, United Kingdom |
+| 02/24/2025 | [Software Engineer Backend Júnior](https://algojobs.io/jobs/3241909) | [Creditas ](https://algojobs.io/company/creditas/) | N/A | São Paulo, São Paulo, Brazil |
 | 02/24/2025 | [Senior Software Engineer II, Backend](https://algojobs.io/jobs/3255223) | [Second Dinner](https://algojobs.io/company/seconddinner/) | $180K - $235K | Second Dinner (US Remote) |
 | 02/24/2025 | [Backend Software Engineer](https://algojobs.io/jobs/3703559) | [Angle Health](https://algojobs.io/company/anglehealth/) | $100K - $240K | New York, NY |
 | 02/24/2025 | [Senior Software Engineer in Core Mail Backend](https://algojobs.io/jobs/3256058) | [Yahoo](https://algojobs.io/company/ouryahoo/) | $128K - $266K | United States of America |
@@ -432,10 +459,9 @@ All jobs are sourced from [algojobs.io](https://algojobs.io/). For more recent p
 | 02/22/2025 | [Senior Software Engineer, Backend - Institutional Products](https://algojobs.io/jobs/3231026) | [Coinbase Careers Page](https://algojobs.io/company/coinbase/) | N/A | Remote - UK |
 | 02/22/2025 | [Backend Software Engineer (EAA)](https://algojobs.io/jobs/3231041) | [Coinbase Careers Page](https://algojobs.io/company/coinbase/) | $128K - $151K | USA (Remote) |
 | 02/21/2025 | [Staff Software Engineer (RCM Core Backend)](https://algojobs.io/jobs/3219445) | [Commure + Athelas](https://algojobs.io/company/commure-athelas/) | N/A | Mountain View, CA |
-| 02/21/2025 | [Backend Engineer](https://algojobs.io/jobs/3232487) | [Blockdaemon](https://algojobs.io/company/blockdaemon/) | $150K - $175K | New York City |
 | 02/21/2025 | [Senior Backend Engineer ( Java/Machine Learning )](https://algojobs.io/jobs/3228604) | [CleverTap](https://algojobs.io/company/clevertap/) | N/A | Mumbai (Hybrid) |
 | 02/20/2025 | [Software Engineer, Backend](https://algojobs.io/jobs/3217806) | [FIGS](https://algojobs.io/company/figs15/) | $150K - $165K | Santa Monica, CA |
-| 02/20/2025 | [Senior Software Engineer, Backend (Disclosures)](https://algojobs.io/jobs/3217809) | [Affirm](https://algojobs.io/company/affirm/) | $190K - $240K | US (Remote) |
+| 02/20/2025 | [Software Engineer II, Backend (Disclosures)](https://algojobs.io/jobs/3217810) | [Affirm](https://algojobs.io/company/affirm/) | $160K - $210K | US (Remote) |
 | 02/20/2025 | [Software Engineer II (Backend Software Engineer)](https://algojobs.io/jobs/3216794) | [Precision Medicine Group](https://algojobs.io/company/precisionmedicinegroup/) | N/A | Remote, India |
 | 02/20/2025 | [Mid-Level Cross-Domain Backend Software Engineer](https://algojobs.io/jobs/3293481) | [BTI360 Website](https://algojobs.io/company/bti36021/) | N/A | Chantilly, VA |
 | 02/20/2025 | [Staff Software Engineer, Backend (Consumer - Growth)](https://algojobs.io/jobs/3217304) | [Coinbase Careers Page](https://algojobs.io/company/coinbase/) | $211K - $211K | Remote - Canada |
@@ -452,7 +478,6 @@ All jobs are sourced from [algojobs.io](https://algojobs.io/). For more recent p
 | 02/19/2025 | [Software Development Engineer-II (Backend)](https://algojobs.io/jobs/3203363) | [Innovaccer Inc.](https://algojobs.io/company/innovaccer/) | N/A | Noida, Uttar Pradesh, India |
 | 02/19/2025 | [Software Engineer, Backend (Developer)](https://algojobs.io/jobs/3189728) | [Coinbase Developer Platform](https://algojobs.io/company/cdpjobs/) | $152K - $179K | USA (Remote) |
 | 02/19/2025 | [Senior/Software Engineer III - Backend, Marketplace](https://algojobs.io/jobs/3210301) | [Walmart](https://algojobs.io/company/walmart/) | $117K - $234K | Sunnyvale, CA / Bentonville, AR |
-| 02/19/2025 | [Backend Engineer](https://algojobs.io/jobs/3192840) | [ING Services Limited, London](https://algojobs.io/company/ing/) | N/A | Manila (One Ayala Tower 2), Philippines |
 | 02/19/2025 | [Backend Engineer](https://algojobs.io/jobs/3202214) | [Sword Health](https://algojobs.io/company/swordhealth/) | N/A | Portugal (Remote) |
 | 02/18/2025 | [IC4 – Sr Software Engineer Backend](https://algojobs.io/jobs/3189022) | [Spin Careers](https://algojobs.io/company/digitalfemsa/) | N/A | SILMC - SERVICIOS INTEGRADOS DE LEALTAD, MERCADOTECNIA Y COMUNICACIÓN, S.A.P.I. DE C.V. |
 | 02/18/2025 | [Software Engineer, Backend](https://algojobs.io/jobs/3190625) | [Atomic](https://algojobs.io/company/atomicvest/) | N/A | Remote |
@@ -474,35 +499,10 @@ All jobs are sourced from [algojobs.io](https://algojobs.io/). For more recent p
 | 02/14/2025 | [Senior Software Engineer, Backend (Developer)](https://algojobs.io/jobs/3164505) | [Coinbase Developer Platform](https://algojobs.io/company/cdpjobs/) | $180K - $218K | USA (Remote) |
 | 02/14/2025 | [Staff Software Engineer, Backend (Platform -Finhub)](https://algojobs.io/jobs/3164633) | [Coinbase Careers Page](https://algojobs.io/company/coinbase/) | $217K - $217K | Remote - Canada |
 | 02/14/2025 | [Staff Software Engineer, Backend (Platform -Finhub)](https://algojobs.io/jobs/3164637) | [Coinbase Careers Page](https://algojobs.io/company/coinbase/) | $218K - $256K | USA (Remote) |
+| 02/14/2025 | [Staff Backend Engineer](https://algojobs.io/jobs/3164944) | [Monzo](https://algojobs.io/company/monzo/) | $115K - $150K | Cardiff, London or Remote (UK) |
 | 02/14/2025 | [Backend Staff Software Engineer - Online Stores](https://algojobs.io/jobs/3165403) | [Squarespace](https://algojobs.io/company/squarespace/) | N/A | Dublin |
+| 02/14/2025 | [Senior Backend Engineer](https://algojobs.io/jobs/3164760) | [Via](https://algojobs.io/company/via/) | N/A | London |
 | 02/14/2025 | [Senior Backend Engineer (f/m/d) - Kotlin](https://algojobs.io/jobs/3164024) | [LeanIX](https://algojobs.io/company/leanix/) | N/A | Dresden, Berlin, Bonn, Munich, Germany  |
 | 02/14/2025 | [Senior Staff Software Engineer (Backend) - Security Graph](https://algojobs.io/jobs/3164478) | [SentinelOne](https://algojobs.io/company/sentinellabs/) | N/A | Slovakia |
 | 02/14/2025 | [Sr. Software Engineer, Backend - Ingestion (Remote)](https://algojobs.io/jobs/3171998) | [CrowdStrike](https://algojobs.io/company/crowdstrike/) | $135K - $215K | USA - Remote, United States of America |
 | 02/13/2025 | [Backend Engineer - Platform Experience](https://algojobs.io/jobs/3149029) | [Mux](https://algojobs.io/company/mux/) | $126K - $220K | San Francisco, CA, United States (or US Remote) |
-| 02/13/2025 | [Senior Backend Software Engineer (Golang), Platform](https://algojobs.io/jobs/3149323) | [Creative Fabrica](https://algojobs.io/company/creativefabrica/) | N/A | Amsterdam, North Holland, Netherlands |
-| 02/13/2025 | [Backend Engineer (Warehouse Management System)](https://algojobs.io/jobs/3134784) | [42dot](https://algojobs.io/company/42dot/) | N/A | Pangyo (Software Dream Center), South Korea (Hybrid) |
-| 02/12/2025 | [Staff Software Engineer, Backend (Institutional - Foundations)](https://algojobs.io/jobs/3136419) | [Coinbase Careers Page](https://algojobs.io/company/coinbase/) | $217K - $217K | Remote - Canada |
-| 02/12/2025 | [Staff Software Engineer, Backend (Institutional - Foundations)](https://algojobs.io/jobs/3136417) | [Coinbase Careers Page](https://algojobs.io/company/coinbase/) | $211K - $249K | USA (Remote) |
-| 02/12/2025 | [Backend Engineer](https://algojobs.io/jobs/3135050) | [Plooto](https://algojobs.io/company/plootocareers/) | N/A | Canada |
-| 02/12/2025 | [Staff Software Engineer, Backend (Institutional - Exchange)](https://algojobs.io/jobs/3136416) | [Coinbase Careers Page](https://algojobs.io/company/coinbase/) | $217K - $217K | Remote - Canada |
-| 02/12/2025 | [Senior Software Engineer, Backend (Institutional - Financing)](https://algojobs.io/jobs/3136412) | [Coinbase Careers Page](https://algojobs.io/company/coinbase/) | $191K - $191K | Remote - Canada |
-| 02/12/2025 | [Senior Software Engineer, Backend (Institutional - Financing)](https://algojobs.io/jobs/3136411) | [Coinbase Careers Page](https://algojobs.io/company/coinbase/) | $186K - $218K | USA (Remote) |
-| 02/12/2025 | [Backend Software Engineer](https://algojobs.io/jobs/3137415) | [WeaveGrid](https://algojobs.io/company/weavegrid/) | $120K - $160K | San Francisco Bay Area or Remote |
-| 02/12/2025 | [Staff Backend Software Engineer](https://algojobs.io/jobs/3136174) | [Audicus](https://algojobs.io/company/audicus/) | $180K - $200K | New York, NY |
-| 02/12/2025 | [Staff Software Engineer, Backend](https://algojobs.io/jobs/3135846) | [UnitedMasters \| Translation](https://algojobs.io/company/unitedmasterstranslation/) | $205K - $250K | Brooklyn, NY \| San Francisco, CA  |
-| 02/12/2025 | [Senior Staff Software Engineer (Backend) - Security Graph](https://algojobs.io/jobs/3136200) | [SentinelOne](https://algojobs.io/company/sentinellabs/) | N/A | Brno, South Moravian, Czech Republic |
-| 02/12/2025 | [Senior Staff Software Engineer (Backend) - Security Graph](https://algojobs.io/jobs/3136199) | [SentinelOne](https://algojobs.io/company/sentinellabs/) | N/A | Prague, Czech Republic |
-| 02/12/2025 | [Software Engineer - API (Backend)](https://algojobs.io/jobs/3120930) | [Moment](https://algojobs.io/company/momentmarkets/) | $175K - $250K | New York, New York, United States |
-| 02/12/2025 | [Software Engineer - Backend](https://algojobs.io/jobs/3139927) | [Snap](https://algojobs.io/company/snapchat/) | N/A | London, United Kingdom |
-| 02/12/2025 | [Backend Software Engineer, Booking Service Search Group - Search Department (SED)](https://algojobs.io/jobs/3138655) | [Rakuten](https://algojobs.io/company/rakuten/) | N/A | Tokyo, Japan |
-| 02/11/2025 | [Backend Software Engineer (EAA) - Brazil](https://algojobs.io/jobs/3122207) | [Coinbase Careers Page](https://algojobs.io/company/coinbase/) | N/A | Remote - Brazil |
-| 02/11/2025 | [Staff Software Engineer - Backend AI Agents](https://algojobs.io/jobs/3123526) | [HubSpot](https://algojobs.io/company/hubspotjobs/) | N/A | USA (Remote) |
-| 02/11/2025 | [Senior Software Engineer, Backend (Reliability Engineering)](https://algojobs.io/jobs/3122798) | [Affirm](https://algojobs.io/company/affirm/) | $190K - $240K | US (Remote) |
-| 02/11/2025 | [Staff Software Engineer, Backend (Reliability Engineering)](https://algojobs.io/jobs/3122802) | [Affirm](https://algojobs.io/company/affirm/) | $225K - $275K | US (Remote) |
-| 02/11/2025 | [Software Engineer, Backend](https://algojobs.io/jobs/3106815) | [Coinbase Careers Page](https://algojobs.io/company/coinbase/) | N/A | Remote - India |
-| 02/11/2025 | [Senior or Junior Backend Software Engineer](https://algojobs.io/jobs/3109926) | [Yahoo](https://algojobs.io/company/ouryahoo/) | N/A | Japan |
-| 02/10/2025 | [Senior Software Engineer (backend)](https://algojobs.io/jobs/3105779) | [Tines](https://algojobs.io/company/tines/) | N/A | Boston, Massachusetts, United States |
-| 02/10/2025 | [Senior Backend Engineer - Acquisition Team (F/M/X)](https://algojobs.io/jobs/3105783) | [SPARETECH](https://algojobs.io/company/sparetech/) | N/A | Germany |
-| 02/10/2025 | [Senior Backend Software Engineer \| Partners Experience](https://algojobs.io/jobs/3107105) | [Wellhub](https://algojobs.io/company/gympass/) | N/A | Portugal (Remote) |
-| 02/10/2025 | [Senior Backend Software Engineer - Scala (f/m)](https://algojobs.io/jobs/3104916) | [Ledger](https://algojobs.io/company/ledger/) | N/A | Paris, France (Hybrid) |
-| 02/09/2025 | [Senior Backend Engineer (Go)](https://algojobs.io/jobs/3098355) | [GWI](https://algojobs.io/company/globalwebindex/) | N/A | Athens, GR |
